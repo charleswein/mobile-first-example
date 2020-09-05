@@ -1,2 +1,2 @@
-# mobile__first__repeat
+# mobile__first__example
 https://charleswein.github.io/mobile__first_example/
